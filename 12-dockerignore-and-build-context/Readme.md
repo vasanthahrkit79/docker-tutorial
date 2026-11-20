@@ -1,10 +1,10 @@
 **To run the node.js application follow the below steps**
 
-sudo apt install npm --> install the npm application
-npm init -y  --> Create the repo
-npm install fs path --> create file system and path
+sudo apt install npm --> install the npm application /
+npm init -y  --> Create the repo /
+npm install fs path --> create file system and path /
 
-then copy past the index.js file 
+then copy past the index.js file /
 create message.txt file and past the you own custom message
 
 
