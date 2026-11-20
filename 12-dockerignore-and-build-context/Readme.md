@@ -1,3 +1,12 @@
+#Prerequist
+To work on nodjs project
+sudo apt install npm --> install the npm application
+npm init -y  --> Create the repo
+npm install fs path --> create file system and path
+
+then copy past the index.js file 
+
+
 # Docker .dockerignore and Build Context
 
 ## Overview
